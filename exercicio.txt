@@ -1,3 +1,5 @@
-git init
-git status
-git log
+git init:Inicia o git dentro do repositório adicionando a pasta oculta “.git”
+
+git status:Mostra o status atual dos arquivos no repositório
+ 
+git log:- Mostra o histórico de commits realizados no repositório
